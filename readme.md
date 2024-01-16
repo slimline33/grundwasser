@@ -5,6 +5,6 @@ Letzter Wert
 Wochenverlauf
 Jahresverlauf
 
-https://snapshots.raintank.io/goto/sqOE8KcIR?orgId=2
+https://snapshots.raintank.io/goto/3KMyUK5Ig?orgId=2
 
 Durchschnittswerte
