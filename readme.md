@@ -1,4 +1,4 @@
-Zeigt den aktuellen Grundwasserspiegel an. 
+Zeigt die aktuelle Höhe des Grundwasserpegels an. 
 
 Tagesverlauf
 Letzter Wert
